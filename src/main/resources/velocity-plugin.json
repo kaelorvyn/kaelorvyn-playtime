@@ -1,0 +1,8 @@
+{
+  "id": "kaelorvynplaytime",
+  "name": "KaelorvynPlaytime",
+  "version": "1.0.0",
+  "description": "Velocity 代理端游玩时长与分服务器时长记录插件",
+  "authors": ["Kael"],
+  "main": "com.kael.playtime.KaelorvynPlaytime"
+}
